@@ -1,5 +1,5 @@
 
-#You've reached the profile of...  
+You've reached the profile of...  
 <pre>
     ____      __        _ __                                 
    / __/___  / /_____  (_) /____       _   _____ _   ______  
